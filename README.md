@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Waking up beside you in the morning light
+> Still burning from the fire of a wild, wild night
+> Tangled in the sheets, everything feels right
+> Gonna kiss my angel and hold you tight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
